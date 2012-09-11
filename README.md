@@ -1,5 +1,11 @@
 ﻿#DtdAnalyzer
 
+##Moved!
+
+<b><em>Note:  the development of this tool has moved to
+[NCBITools/DtdAnalyzer](https://github.com/NCBITools/DtdAnalyzer).  Please update your
+bookmarks.</em></b>
+
 ##Overview
 
 This tool will create an XML representation (using elements and attributes)
